@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "e02:ruby"
+  },
+  "result": "eo2:sapphire",
+  "experience": 1.0,
+  "cookingtime": 200
+}

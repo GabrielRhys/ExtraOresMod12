@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "eo2:sapphire_block"
+    }
+  ],
+  "result":
+  {
+    "item": "eo2:sapphire",
+    "count": 9
+  }
+}

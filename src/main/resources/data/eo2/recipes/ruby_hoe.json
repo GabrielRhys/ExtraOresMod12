@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    " rr",
+    " s ",
+    " s "
+  ],
+  "key":
+  {
+    "r":
+    {
+      "item": "eo2:ruby"
+    },
+    "s":
+    {
+      "item": "minecraft:stick"
+    }
+  },
+
+  "result":
+  {
+    "item": "eo2:ruby_hoe",
+    "count": 1
+  }
+}

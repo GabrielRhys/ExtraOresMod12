@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "r",
+    "r",
+    "s"
+  ],
+  "key":
+  {
+    "r":
+    {
+      "item": "eo2:ruby"
+    },
+    "s":
+    {
+      "item": "minecraft:stick"
+    }
+  },
+
+  "result":
+  {
+    "item": "eo2:ruby_sword",
+    "count": 1
+  }
+}
